@@ -27,3 +27,4 @@ app.Run();
 
 ////hehehehehe
 /// Thay doi FIle bat ky
+/// CONFIG
